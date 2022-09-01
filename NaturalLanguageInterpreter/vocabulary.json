@@ -1,0 +1,9 @@
+data = 
+[
+	["play_music!","play music","play a song","I want to hear music","music","toca musica","abre as musicas","ouvir musica"],
+	["talk_to!","talk to","speak to","speak with","talk with","hello","hi","hey"],
+	["goodbye!","goodbye","bye","so long","tchau","adeus"],
+	["consume_the!","consume the","consume up","consume down"],
+	["show_alert!","show alert","display alert","display message","display popup"],
+	["how_are_you!","how are you","how do you do","what's up","what's going on"],
+];
